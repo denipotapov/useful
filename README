@@ -1,0 +1,1 @@
+https://mockk.io - MockK is a library for mocking written in Kotlin. Its main philosophy is to provide first-class support for Kotlin language features such as Coroutines or lambda blocks. As a native library, it helps our teams to write clean and concise code on testing Kotlin applications instead of using incommodious wrappers of Mockito or PowerMock.
