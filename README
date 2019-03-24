@@ -1,2 +1,5 @@
-KOTLIN
+Kotlin
 https://mockk.io - MockK is a library for mocking written in Kotlin. Its main philosophy is to provide first-class support for Kotlin language features such as Coroutines or lambda blocks. As a native library, it helps our teams to write clean and concise code on testing Kotlin applications instead of using incommodious wrappers of Mockito or PowerMock.
+
+Machine Learning
+http://predictionio.apache.org - PredictionIO is an open source machine-learning server. Developers and data scientists can use it to build intelligent applications for prediction. Like all intelligent applications, PredictionIO has three parts: data collection and storage, model training, and model deployment and expose service. Developers could focus on implementing data-processing logic, model algorithm and prediction logic based on the corresponding interfaces and liberate themselves from data storage and model training deployment. In our experience, PredictionIO can support both small and large volumes of data with low concurrency. We mostly use PredictionIO to build predictive services for small and medium-sized enterprises or as a proof of concept when building more complex, customized prediction engines.
